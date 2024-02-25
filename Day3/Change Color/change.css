@@ -1,0 +1,9 @@
+
+#itemList li {
+    color: black;
+  }
+  
+  
+  #itemList li:hover {
+    color: red;
+  }
